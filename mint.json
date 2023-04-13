@@ -28,6 +28,11 @@
       "url": "api-reference"
     },
     {
+      "name": "Typings",
+      "icon": "rectangle-terminal",
+      "url": "typings"
+    },
+    {
       "name": "Changelog",
       "icon": "list",
       "url": "https://mintlify.com"
